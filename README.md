@@ -11,12 +11,12 @@ az login
 
 ### Login in CLI
 ```
-az login -u myemail@address.com
+az login -u nedi@dxc.com
 ```
 
-### List accounts
+### List accounts/subscriptions
 ```
-az account list
+az account list --output table
 ```
 
 ### Set subscription
