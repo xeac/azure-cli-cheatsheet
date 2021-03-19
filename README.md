@@ -1,4 +1,7 @@
-# Azure CLI 2.0 Cheatsheet
+# Some more commands: https://docs.microsoft.com/en-us/cli/azure/manage-azure-subscriptions-azure-cli
+
+
+# Azure CLI Cheatsheet
 
 Azure CLI 2.0 cheatsheet for Login, Resources, VMs, Resource groups, Storage, Batch, and Containers.
 
